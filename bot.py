@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # === Замените на ваш токен ===
-TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TELEGRAM_TOKEN = "7632209337:AAFcpnoYcl_uM1hg26bEj4AjqC0EGV_OnI4"
 
 # Веб-сервер Flask
 app = Flask(__name__)
